@@ -1,0 +1,4 @@
+aluno: Fernando Silva 2023.1904.061-4
+aluno: Maurício Raquita 2023.1904.039-8
+aluno: Adam Rian 2023.1904.046-0
+uso_ia: sim
